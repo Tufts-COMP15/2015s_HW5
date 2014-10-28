@@ -1,5 +1,5 @@
-# ReadMe for COMP 15 HW4
-## Binary Search Tree Assignment 
+# ReadMe for COMP 15 HW5
+## Sorting Assignment 
 
 Every assignment you submit you will include a ReadMe file. The name
 could be ReadMe, readme, Read-me.txt, readME, ReadMe.md (the “.md”
