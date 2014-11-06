@@ -16,4 +16,5 @@ int main()
         sorter.sort();
         cout << "Output:\n";
         sorter.printArray();
+	return 0;
 }
